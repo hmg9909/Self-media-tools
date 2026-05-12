@@ -10,7 +10,7 @@
 - 构建号：11
 - 平台：macOS
 - 下载：[FlashtecLab-1.2.2-macOS.zip](https://github.com/hmg9909/zimeiti-quannengongju/releases/download/v1.2.2/FlashtecLab-1.2.2-macOS.zip)
-- 使用说明：[docs/使用说明书.md](docs/使用说明书.md)
+- 图文使用说明：[docs/使用说明书.md](docs/使用说明书.md)
 
 ## 历史版本
 
@@ -31,6 +31,10 @@
 - 账号中心：抖音、小红书登录态长期保留，不保存明文密码。
 - 一次填写：公共标题、正文、标签、话题和定时信息可统一填写，再按平台补充差异字段。
 
+## 使用说明
+
+图文教程已放在 [docs/使用说明书.md](docs/使用说明书.md)，包含项目设置、文件管理、脚本、分发、账号中心、平台差异和一键发布队列截图。
+
 ## 校验值
 
 | 版本 | SHA256 |
@@ -40,4 +44,3 @@
 | 1.2.0 | `a82ce181a01ad9d38cfb0724d768b7e3e10f3f2ea51d667ebadc2216e7625c0b` |
 | 1.1.10 | `271ae23c62186b336ad760f48d01b905597660d94073486ccc752af3a4d9ac2a` |
 | 1.1.1 | `2f0c7035235c2e88b43a93d798fd198bcfcb2d0d6a375df7a768c8881e6a0fbc` |
-
