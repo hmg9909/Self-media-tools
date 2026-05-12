@@ -1,4 +1,4 @@
-# 自媒体全能工具
+# Self-media tools
 
 这里是 FlashtecLab 的公开下载与使用说明仓库。
 
@@ -9,18 +9,18 @@
 - 最新版本：1.2.2
 - 构建号：11
 - 平台：macOS
-- 下载：[FlashtecLab-1.2.2-macOS.zip](https://github.com/hmg9909/zimeiti-quannengongju/releases/download/v1.2.2/FlashtecLab-1.2.2-macOS.zip)
+- 下载：[FlashtecLab-1.2.2-macOS.zip](https://github.com/hmg9909/Self-media-tools/releases/download/v1.2.2/FlashtecLab-1.2.2-macOS.zip)
 - 图文使用说明：[docs/使用说明书.md](docs/使用说明书.md)
 
 ## 历史版本
 
 | 版本 | 构建号 | 下载 |
 | --- | ---: | --- |
-| 1.2.2 | 11 | [macOS zip](https://github.com/hmg9909/zimeiti-quannengongju/releases/download/v1.2.2/FlashtecLab-1.2.2-macOS.zip) |
-| 1.2.1 | 10 | [macOS zip](https://github.com/hmg9909/zimeiti-quannengongju/releases/download/v1.2.1/FlashtecLab-1.2.1-macOS.zip) |
-| 1.2.0 | 9 | [macOS zip](https://github.com/hmg9909/zimeiti-quannengongju/releases/download/v1.2.0/FlashtecLab-1.2.0-macOS.zip) |
-| 1.1.10 | 8 | [macOS zip](https://github.com/hmg9909/zimeiti-quannengongju/releases/download/v1.1.10/FlashtecLab-1.1.10-macOS.zip) |
-| 1.1.1 | 7 | [macOS zip](https://github.com/hmg9909/zimeiti-quannengongju/releases/download/v1.1.1/FlashtecLab-1.1.1-macOS.zip) |
+| 1.2.2 | 11 | [macOS zip](https://github.com/hmg9909/Self-media-tools/releases/download/v1.2.2/FlashtecLab-1.2.2-macOS.zip) |
+| 1.2.1 | 10 | [macOS zip](https://github.com/hmg9909/Self-media-tools/releases/download/v1.2.1/FlashtecLab-1.2.1-macOS.zip) |
+| 1.2.0 | 9 | [macOS zip](https://github.com/hmg9909/Self-media-tools/releases/download/v1.2.0/FlashtecLab-1.2.0-macOS.zip) |
+| 1.1.10 | 8 | [macOS zip](https://github.com/hmg9909/Self-media-tools/releases/download/v1.1.10/FlashtecLab-1.1.10-macOS.zip) |
+| 1.1.1 | 7 | [macOS zip](https://github.com/hmg9909/Self-media-tools/releases/download/v1.1.1/FlashtecLab-1.1.1-macOS.zip) |
 
 ## 1.2.2 重点功能
 
