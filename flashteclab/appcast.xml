@@ -6,11 +6,11 @@
     <description>FlashtecLab public update feed</description>
     <language>zh-Hans</language>
     <item>
-      <title>FlashtecLab v1.3.3</title>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-      <pubDate>Mon, 25 May 2026 17:52:08 +0800</pubDate>
-      <enclosure url="https://github.com/hmg9909/Self-media-tools/releases/download/v1.3.3/FlashtecLab-v1.3.3.dmg" type="application/x-apple-diskimage" sparkle:edSignature="2QoGz0Y/JSAZKHLTlzvcs3K4Xec3afRczsFDSlWYhmOZ8qMJGJsJdYc526FTBPEPWa+72IpplW2GnB4z6jU8AA==" length="55113828" />
+      <title>FlashtecLab v1.3.4</title>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+      <pubDate>Mon, 29 Jun 2026 13:12:29 +0800</pubDate>
+      <enclosure url="https://github.com/hmg9909/Self-media-tools/releases/download/v1.3.4/FlashtecLab-v1.3.4.dmg" type="application/x-apple-diskimage" sparkle:edSignature="+91AylFn657bGIWzouinEa08tLc8GoaoqFKtNttb46mTxhxaMWpbgTL2dz6vCua5f2ViHfMWCemS9nRZ0uXIDA==" length="55121190" />
     </item>
   </channel>
 </rss>
